@@ -1,2 +1,2 @@
-# quarkus-petclinic-vet
-Vet microservice for the quarkus petclinic implementation
+# quarkus-petclinic
+quarkus petclinic implementation
